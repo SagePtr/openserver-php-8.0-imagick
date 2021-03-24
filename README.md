@@ -1,0 +1,1 @@
+# openserver-php-8.0-imagick
